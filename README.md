@@ -1,5 +1,7 @@
 # 🔗 LittleLink
 
+[!Video https://www.youtube.com/embed/TAaG0nUUy6A]
+
 ![LittleLink](https://cdn.cottle.cloud/littlelink/social-circle.png)
 
 LittleLink is a lightweight DIY alternative to services like [Linktree](https://linktr.ee)
